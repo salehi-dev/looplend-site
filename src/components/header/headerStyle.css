@@ -1,0 +1,11 @@
+.header-text {
+  color: white;
+  text-decoration: none;
+}
+.header-text:hover {
+  color: rgb(197, 206, 213);
+}
+.active{
+  border-bottom: 4px solid rgb(255, 128, 0);
+  border-radius: 6px;
+}

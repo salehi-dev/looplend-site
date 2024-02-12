@@ -1,0 +1,44 @@
+
+.icon {
+  border-width: 0;
+  color: #666;
+  padding: 2px 5px;
+}
+.linkdin-icon:hover{
+  color: #008cff;
+}
+
+.youtube-icon:hover{
+  color: #ff3700;
+}
+.faceboke-icon:hover{
+  color: #0084ff;
+}
+.twitter-icon:hover{
+  color:  #1D9BF0;
+}
+.email-icon:hover{
+  color:  #2196F3;
+}
+.phone-icon:hover{
+  color:  #009688;
+}
+.footer-container{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #444;
+  color: #fff;
+  padding: 1rem;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  font-size: 20px;
+  margin-bottom: auto;
+}
+.link{
+  text-decoration: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 20px;
+}
